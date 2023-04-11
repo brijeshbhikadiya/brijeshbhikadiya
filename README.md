@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋Hi, I'm @brijeshbhikadiya <br><br>-👀I'm interested in Mobile Development And data structures and algorithms. <br><br>-👨‍💻I'm currently learning Android development in java.         <br>                               <br> -👨‍🎓I'm looking forward to working with awesome folks.<br><br>I'm currently learning data structure and algoritham in c++.<br>-How to reach me brijeshbhikadiya27@gmail.com<br>
+-👋Hi, I'm @brijeshbhikadiya <br><br>-👀I'm interested in Mobile Development And data structures and algorithms. <br><br>-👨‍💻I'm currently learning Android development in java.         <br>                               <br> -👨‍🎓I'm looking forward to working with awesome folks.<br><br>-I'm currently learning data structure and algoritham in c++.<br><br>-How to reach me brijeshbhikadiya27@gmail.com<br>
 
 
 ## 🌐 Socials:
