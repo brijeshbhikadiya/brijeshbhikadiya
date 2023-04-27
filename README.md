@@ -1,25 +1,47 @@
-# 💫 About Me:
--👋Hi, I'm @brijeshbhikadiya <br><br>-👀I'm interested in Mobile Development And data structures and algorithms. <br><br>-👨‍💻I'm currently learning Android development in java.         <br>                               <br> -👨‍🎓I'm looking forward to working with awesome folks.<br><br>-I'm currently learning data structure and algoritham in c++.<br><br>-How to reach me brijeshbhikadiya27@gmail.com<br>
+<h1 align="center">Hi 👋, I'm Brijesh Bhikadiya</h1>
+<h3 align="center">A passionate Android Developer and programmer from India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brijeshbhikadiya&label=Profile%20views&color=0e75b6&style=flat" alt="brijeshbhikadiya" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhikadiya_brijesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.https://www.linkedin.com/in/brijesh-bhikadiya27/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mr_brijesh_27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtube.com/channel/UCFFkAo-r3g0e5TWD6DGVYzw) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=brijeshbhikadiya&theme=radical&margin-w=20&margin-h=15&no-frame=true)](https://github.com/brijeshbhikadiya/github-profile-trophy)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brijeshbhikadiya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=brijeshbhikadiya&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshbhikadiya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 I’m currently working on **Android Development.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brijeshbhikadiya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 I’m currently learning **Data Structures And Algorithms.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+- 👯 I’m looking to collaborate on **Heckathons and Open Source Contributions.**
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+- 🤝 I’m looking for help with **Opensource Contributions.**
 
----
-[![](https://visitcount.itsvg.in/api?id=brijeshbhikadiya&icon=0&color=0)](https://visitcount.itsvg.in)
+- 👨‍💻 All of my projects are available at [https://github.com/brijeshbhikadiya](https://github.com/brijeshbhikadiya)
+
+- 💬 Ask me about **Java,C++,Android,Data Structures And Algorithms.**
+
+- 📫 How to reach me **brijeshbhikadiya27@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ym1bSdYERwWlhqBCG5rI_Vk_uH4E9QhK/view?usp=drivesdk](https://drive.google.com/file/d/1ym1bSdYERwWlhqBCG5rI_Vk_uH4E9QhK/view?usp=drivesdk)
+
+- ⚡ Fun fact **I think I playing cricket and also I can Teach very well to other.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mr_brijesh_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_brijesh_27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brijesh-bhikadiya27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brijesh-bhikadiya27" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100083277472766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100083277472766" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/bhikadiya_brijesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bhikadiya_brijesh/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/brijeshbhikadiy1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/brijeshbhikadiy1?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/mr_brijesh27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mr_brijesh27/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,css,eclipse,firebase,flutter,git,github,html,instagram,js,jquery,linkedin,mysql,ps,postman,py,replit,sass,stackoverflow,twitter,vscode,visualstudio,&perline=12" />
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats-ten-navy.vercel.app/api/top-langs?username=brijeshbhikadiya&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="brijeshbhikadiya" /></p>
+
+<p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=brijeshbhikadiya&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="brijeshbhikadiya"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshbhikadiya&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="brijeshbhikadiya" /></p>
