@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/brijeshbhikadiya/brijeshbhikadiya/master/name.svg" alt="brijeshbhikadiya" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Brijesh Bhikadiya</h1>
 <h3 align="center">A passionate Android Developer and programmer from India.</h3>
 
@@ -18,8 +22,6 @@
 - 💬 Ask me about **Java,C++,Android,Data Structures And Algorithms.**
 
 - 📫 How to reach me **brijeshbhikadiya27@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ym1bSdYERwWlhqBCG5rI_Vk_uH4E9QhK/view?usp=drivesdk](https://drive.google.com/file/d/1ym1bSdYERwWlhqBCG5rI_Vk_uH4E9QhK/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I playing cricket and also I can Teach very well to other.**
 
