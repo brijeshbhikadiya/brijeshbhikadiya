@@ -3,7 +3,11 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Brijesh Bhikadiya</h1>
-<h3 align="center">A passionate Android Developer and programmer from India.</h3>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=1000&height=45&lines=A+passionate+Android+Developer+and+programmer+from+India.;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijeshbhikadiya&label=Profile%20views&color=0e75b6&style=flat" alt="brijeshbhikadiya" /> </p>
 
