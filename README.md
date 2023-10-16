@@ -1,3 +1,4 @@
+[![An image of @brijeshbhikadiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brijeshbhikadiya)](https://holopin.io/@brijeshbhikadiya)
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/brijeshbhikadiya/brijeshbhikadiya/master/name.svg" alt="brijeshbhikadiya" />
 </h1>
