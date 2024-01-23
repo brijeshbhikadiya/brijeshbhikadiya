@@ -53,3 +53,6 @@
 <p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=brijeshbhikadiya&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="brijeshbhikadiya"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshbhikadiya&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="brijeshbhikadiya" /></p>
+
+![Brijesh Bhikadiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brijeshbhikadiya&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)
+
